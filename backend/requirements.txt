@@ -1,0 +1,9 @@
+
+flask
+pytube
+moviepy
+whisper
+torch
+librosa
+opencv-python
+numpy
